@@ -35,6 +35,13 @@ I work mainly in **TypeScript/React** and **Python**, and I'm growing into **dat
 
 ---
 
+## 🔓 Open-source projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[West Africa's Digital Divide](https://github.com/Romeoantwi/west-africa-digital-divide)** | What drives internet adoption across the 15 ECOWAS countries? 25 years of World Bank data, regression with clustered standard errors and leave-one-country-out validation. Finding: Ghana beats its fundamentals by 18 points | Python · pandas · statsmodels · scikit-learn |
+| **[netprobe](https://github.com/Romeoantwi/netprobe)** | Fast asynchronous TCP port scanner with service detection, banner grabbing and JSON/CSV output. No dependencies, fully tested | Python · asyncio · TCP/IP |
+
 ## ⭐ Featured projects
 
 | Project | What it is | Stack |
@@ -53,7 +60,7 @@ _Source code for these is private — happy to walk through it in an interview._
 
 ---
 
-## 🌱 Currently learning
+## 🌱 Currently growing in
 
-- Data science with Python (pandas, scikit-learn)
-- Networking fundamentals
+- **Data science:** statistical modelling and machine learning with Python
+- **Networking:** TCP/IP, network scanning and security fundamentals
